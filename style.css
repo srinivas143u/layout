@@ -1,0 +1,295 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: black;
+    width: 100%;
+    height: 70px;
+}
+.logo{
+    background-color: blueviolet;
+    width: 70px;
+    height: 50px;
+    margin-left: 20px;
+    position: relative;
+    top: 10px;
+}
+.navlink{
+    background-color: red;
+    width: 70%;
+    height: 50px;
+    position: absolute;
+    left: 25%;
+    top: 10px;
+}
+main{
+    background-color: slateblue;
+    width: 100%;
+    height: 552px;
+}
+.main1{
+    position: absolute;
+    top: 40%;
+    left: 50px;
+}
+.main1 h1{
+    background-color: palevioletred;
+    width: 300px;
+    height: 50px;
+}
+.main1 p{
+    background-color: plum;
+    width: 300px;
+    height: 100px;
+    margin-top: 10px;
+}
+.main1 button{
+    background-color: brown;
+    width: 130px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.container{
+    background-color: yellow;
+    width: 100%;
+    height: 552px;
+}
+.section1{
+    position: relative;
+    top: 20%;
+    margin-left: 50%;
+}
+.section1 h1{
+    background-color: blue;
+    width: 500px;
+    height: 50px;
+}
+.section1 p{
+    background-color: black;
+    width: 400px;
+    height: 200px;
+    margin-top: 10px;
+}
+.section1 button{
+    background-color: red;
+    width: 130px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 70px;
+}
+.container1{
+    background-color: palevioletred;
+    width: 100%;
+    height: 500px;
+}
+.icon{
+    margin-left: 45%;
+}
+.logo1{
+    background-color: rebeccapurple;
+    width: 130px;
+    height: 60px;
+    position: relative;
+    top: 5px;
+}
+.font{
+    background-color: black;
+    width: 130px;
+    height: 50px;
+    margin-top: 10px;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 5px;
+    margin-left: 150px;
+}
+.grid-item{
+    background-color: black;
+    width: 150px;
+    height: 200px;
+    position: relative;
+}
+.bike{
+    position: relative;
+    margin-top: 140%;
+}
+.bike h2{
+    background-color: red;
+    width: 150px;
+    height: 40px;
+}
+.bike p{
+    background-color: blue;
+    width: 100%;
+    height: 40px;
+    margin-top: 5px;
+}
+.favourite{
+    background-color: palegreen;
+    width: 100%;
+    height: 700px;
+}
+.grid-container1{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: 190px;
+}
+.grid-item1{
+    background-color: red;
+    width: 130px;
+    height: 200px;
+    margin-top: 10px;
+    position: relative;
+    left: 33px;
+}
+.win{
+   display: grid;
+   grid-template-columns: auto auto auto ;
+   margin-left: 190px;
+}
+.grid-item8{
+    background-color: orange;
+    width: 130px;
+    height: 50px;
+    margin-top: 10px;
+    position: relative;
+    left: 33px;
+}
+.grid-container2{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: 190px;
+    margin-top: 50px;
+}
+.motor1 p{
+    background-color: aqua;
+    width: 130px;
+    height: 40px;
+    margin-top: 230%;
+}
+.library{
+    background-color: olive;
+    width: 100%;
+    height: 500px;
+}
+.grid-container3{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding-left: 20%;
+    margin-right: 500px;
+}
+.grid-item2{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    margin-left: 85%;
+    margin-top: 50px;
+}
+.team{
+    background-color: orangered;
+    width: 100%;
+    height: 800px;
+}
+.grid-container4{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 10px;
+}
+.grid-item3{
+    background-color: brown;
+    width: 100px;
+    height: 120px;
+    position: relative;
+    right: 90%;
+}
+.para{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.grid-item0{
+    background-color: white;
+    width: 100px;
+    height: 30px;
+    position: relative;
+    right: 90%;
+    margin-top: 10px;
+}
+
+.boat p{
+    background-color: blue;
+    width: 100%;
+    height: 20px;
+    margin-top: 140%;
+}
+.contact{
+    background-color: magenta;
+    width: 100%;
+    height: 500px;
+}
+.picture{
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    right: 70%;
+}
+.registerform{
+    background-color: yellowgreen;
+    width: 400px;
+    height: 400px;
+    position: relative;
+    bottom: 350px;
+    left: 30%;
+}
+.login{
+    background-color: black;
+    width: 360px;
+    height: 60px;
+    margin-left: 20px;
+    position: relative;
+    top: 20px;
+}
+.grid-container0{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.footer2{
+    margin-left: 30px;
+}
+.grid-item4{
+    background-color: black;
+    width: 150px;
+    height: 150px;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+.grid-container10{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.grid-item5{
+    background-color: black;
+    width: 150px;
+    height: 50px;
+    margin-top: 10px;
+    margin-left: 70px;
+}
+.grid-item6{
+    background-color: bisque;
+    width: 150px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 70px;
+}
+.last{
+    background: blue;
+    width: 60%;
+    height: 40px;
+    margin-left: 20%;
+    margin-top: 20px;
+}
